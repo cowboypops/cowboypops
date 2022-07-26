@@ -939,7 +939,7 @@ button.button-link {
     border-radius: 100%;
     color: #fff;
 }
-.show {
+.show-theme {
     width: 56px;
     height: 56px;
     border: 1px solid rgba(255, 255, 255, .1);
